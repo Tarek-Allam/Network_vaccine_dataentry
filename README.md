@@ -3,9 +3,12 @@
 final project of computer networking class.
 
 **Team Members**
-| name | section | BN |   
-|------------------------|---------|----| | Tarek ALlam Ibrahim | 2 | 42 | | Mahmoud mohammed Tarek | | | | Mahmoud
-mohammed ibrahim | | | | Abd alrahman abu bakr | | | | hedra sami | | |
+
+* Tarek Allam Ibrahim section: 1 BN: 42
+* Mahmoud mohammed Tarek section:    BN:
+* Mahmoud mohammed ibrahim section:  BN:
+* Abd alrahman abu bakr section:  BN:
+* hedra sami section:  BN:
 
 ### screen shoots from Application user interface
 
@@ -16,7 +19,7 @@ mohammed ibrahim | | | | Abd alrahman abu bakr | | | | hedra sami | | |
 ![New connection accepted](resources/multi-tcp-conection.png)
 ![database record ](resources/multi-tcp-conection.png)
 
-### chatLoop deals with the database, socket states, while the connections in sessions
+### chat loop deals with the database, socket states, while the connections in sessions
 
 ![Server History log](resources/all-server-logs.png)
 
