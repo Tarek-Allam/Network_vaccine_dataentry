@@ -12,12 +12,29 @@ final project of computer networking class.
 
 ### screen shoots from Application user interface
 
+### Intiate connection with three-way hand-shake
+
 ![intiate connection](resources/hand-shake.png)
-![Home Page](resources/Landing-page.png)
+
+### intiate connection
+
+![Home Page Search for a record ](resources/Landing-page.png)
+
+### Home Page
+
 ![New record](resources/create-record.png)
+
+### New record
+
 ![View saved record ](resources/record-added.png)
+
+### View saved record
+
 ![New connection accepted](resources/multi-tcp-conection.png)
-![database record ](resources/multi-tcp-conection.png)
+
+### multi-tcp-conections
+
+![multi-tcp-conection](resources/multi-tcp-conection.png)
 
 ### chat loop deals with the database, socket states, while the connections in sessions
 
