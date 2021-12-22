@@ -2,12 +2,12 @@
 
 final project of computer networking class.
 
-**Team Members**
+**Team #6 Members**
 
 * Tarek Allam Ibrahim section: 1 BN: 42
-* Mahmoud mohammed Tarek section:    BN:
-* Mahmoud mohammed ibrahim section:  BN:
-* Abd alrahman abu bakr section:  BN:
+* Mahmoud mohammed Tarek section: 2 BN:21
+* Mahmoud mohammed ibrahim section: 2 BN:20
+* Abd alrahman abu bakr section:1 BN:44
 * hedra sami section:  BN:
 
 ### screen shoots from Application user interface
