@@ -12,7 +12,7 @@ final project of computer networking class.
 
 ### screen shoots from Application user interface
 
-### Intiate connection with three-way hand-shake
+### Initiate connection with three-way hand-shake
 
 ![intiate connection](resources/hand-shake.png)
 
