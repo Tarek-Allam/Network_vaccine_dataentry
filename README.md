@@ -16,25 +16,21 @@ final project of computer networking class.
 
 ![intiate connection](resources/hand-shake.png)
 
-### intiate connection
+### intiate connection with Home Page Search for a record
 
-![Home Page Search for a record ](resources/Landing-page.png)
-
-### Home Page
-
-![New record](resources/create-record.png)
+![Home Page  ](resources/Landing-page.png)
 
 ### New record
 
-![View saved record ](resources/record-added.png)
+![New record](resources/create-record.png)
 
 ### View saved record
 
-![New connection accepted](resources/multi-tcp-conection.png)
+![View saved record ](resources/record-added.png)
 
 ### multi-tcp-conections
 
-![multi-tcp-conection](resources/multi-tcp-conection.png)
+![New connection accepted](resources/multi-tcp-conection.png)
 
 ### chat loop deals with the database, socket states, while the connections in sessions
 
